@@ -13,7 +13,7 @@ from fastapi_cache.coder import Coder, JsonCoder
 from fastapi_cache.key_builder import default_key_builder
 from fastapi_cache.types import Backend, KeyBuilder
 
-__version__ = version("fastapi-cache2")  # pyright: ignore[reportUnknownVariableType]
+__version__ = version("fastapi-cache-ava")  # pyright: ignore[reportUnknownVariableType]
 __all__ = [
     "Backend",
     "Coder",

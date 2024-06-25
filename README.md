@@ -1,6 +1,6 @@
 # fastapi-cache
 
-[![pypi](https://img.shields.io/pypi/v/fastapi-cache2.svg?style=flat)](https://pypi.org/p/fastapi-cache2)
+[![pypi](https://img.shields.io/pypi/v/fastapi-cache-ava.svg?style=flat)](https://pypi.org/p/fastapi-cache-ava)
 [![license](https://img.shields.io/github/license/long2ice/fastapi-cache)](https://github.com/long2ice/fastapi-cache/blob/main/LICENSE)
 [![CI/CD](https://github.com/long2ice/fastapi-cache/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/long2ice/fastapi-cache/actions/workflows/ci-cd.yml)
 
@@ -25,25 +25,25 @@ backends supporting Redis, Memcached, and Amazon DynamoDB.
 ## Install
 
 ```shell
-> pip install fastapi-cache2
+> pip install fastapi-cache-ava
 ```
 
 or
 
 ```shell
-> pip install "fastapi-cache2[redis]"
+> pip install "fastapi-cache-ava[redis]"
 ```
 
 or
 
 ```shell
-> pip install "fastapi-cache2[memcache]"
+> pip install "fastapi-cache-ava[memcache]"
 ```
 
 or
 
 ```shell
-> pip install "fastapi-cache2[dynamodb]"
+> pip install "fastapi-cache-ava[dynamodb]"
 ```
 
 ## Usage

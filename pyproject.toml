@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fastapi-cache2"
+name = "fastapi-cache-ava"
 version = "0.2.1"
 description = "Cache for FastAPI"
 authors = ["long2ice <long2ice@gmail.com>"]
